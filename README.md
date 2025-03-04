@@ -1,8 +1,7 @@
 # Hi, I'm Rajaa! 👋
 
-🚀 Coding isn't just a job—it's a puzzle I solve with passion.
-
-I'm a Software Engineer who thrives on transforming complex problems into elegant, scalable solutions. My journey into tech began with a spark of curiosity during my rigorous training at ALX Software Engineering, followed by Kilobyte School, where late-night coding sessions and collaborative projects taught me the art of resilience and the thrill of seeing lines of code come to life.
+I love to connect with different people and i would be more than happy to make new connections.
+I'm currently looking for a full time software engineering/fullstack Js developer job opportunity. If you have any job positions available or if you have any questions regarding my profile your are more than welcome to message me. Please feel free to email me anytime.
 
 ---
 
@@ -47,6 +46,6 @@ I'm a Software Engineer who thrives on transforming complex problems into elegan
 
 ## 📬 Let's Connect!
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile) 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajaa01.kacemi@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajaa-kacemi/) 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/heyRajaa)
