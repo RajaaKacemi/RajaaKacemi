@@ -5,32 +5,6 @@ I'm currently looking for a full time software engineering/fullstack Js develope
 
 ---
 
-## 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tariq&show_icons=true&theme=radical)
-
----
-
-## 💻 About Me
-
-### What Drives Me 💡
-- **Building Impact:** Led a 4-member team to create a food delivery platform that slashed operational bottlenecks by 60%.
-- **Solving Smarter:** Designed web scrapers that turned chaotic data streams into actionable insights.
-- **Mastering the Stack:** From architecting APIs in Python/Flask to optimizing databases in MySQL.
-
-### Beyond the Screen 🎮
-- When I'm not knee-deep in code, you'll find me exploring open-source projects or diving into tech meetups.
-- First "Hello, World!" moment? It felt like unlocking a superpower—and I've been chasing that high ever since.
-- Combining agile methodologies with a knack for breaking down problems into bite-sized wins.
-
-### Currently ⏳
-- Creating Full Stack Web Apps.
-- Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-- Building RESTful APIs with Node.js and Express.
-- Diving into database management with MongoDB and SQL.
-
----
-
 ## 🔧 My Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
