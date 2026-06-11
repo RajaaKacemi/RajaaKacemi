@@ -63,9 +63,6 @@
 **Full Stack Developer @ NutritechAgro** *(June 2024 – Present)*  
 Building production REST APIs with Django REST Framework, React.js/Next.js frontends in TypeScript, and containerized deployments with Docker. Contributed to digitalizing internal processes across multiple regions of Morocco.
 
-**DevOps Mentorship @ DRNA Programme — Cohort 1** *(Feb 2026 – May 2026)*  
-Hands-on DevOps training in a simulated healthcare environment (MediCare+): Docker, Kubernetes, ArgoCD, Ansible, Terraform, Prometheus & Grafana, DevSecOps practices.
-
 ---
 
 ## 🎓 Education
